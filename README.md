@@ -2,4 +2,4 @@
 
 ### Full-Stack Software Engineer
 
-I build software across the stack—and I'm always up for another cup of coffee ☕.
+I build software across the stack—and probably drinking more coffee than I should ☕.
